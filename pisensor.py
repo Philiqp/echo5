@@ -65,7 +65,7 @@ def sensorchekup():
 
         elif chuckles == "x":
             GPIO.cleanup()
-            print("Good bye 0111011001010010101010101011110001000100101")
+            print("Good bye 01110110010210010101010101011110001000100101")
             print("srever error 100010101101011010101011")
             sleep(1)
             break
